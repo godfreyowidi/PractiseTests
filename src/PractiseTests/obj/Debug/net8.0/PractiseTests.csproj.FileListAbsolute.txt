@@ -1,0 +1,14 @@
+D:\Projects\DSA\PractiseTests\src\PractiseTests\bin\Debug\net8.0\PractiseTests.exe
+D:\Projects\DSA\PractiseTests\src\PractiseTests\bin\Debug\net8.0\PractiseTests.deps.json
+D:\Projects\DSA\PractiseTests\src\PractiseTests\bin\Debug\net8.0\PractiseTests.runtimeconfig.json
+D:\Projects\DSA\PractiseTests\src\PractiseTests\bin\Debug\net8.0\PractiseTests.dll
+D:\Projects\DSA\PractiseTests\src\PractiseTests\bin\Debug\net8.0\PractiseTests.pdb
+D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\PractiseTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\PractiseTests.AssemblyInfoInputs.cache
+D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\PractiseTests.AssemblyInfo.cs
+D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\PractiseTests.csproj.CoreCompileInputs.cache
+D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\PractiseTests.dll
+D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\refint\PractiseTests.dll
+D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\PractiseTests.pdb
+D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\PractiseTests.genruntimeconfig.cache
+D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\ref\PractiseTests.dll
