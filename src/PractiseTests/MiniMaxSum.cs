@@ -4,23 +4,43 @@
 
 namespace PractiseTests;
 
-public class MiniMaxSum
+public class MiniMaxSumSolution
 {
     public static void miniMaxSum(List<int> arr)
     {
-        var maxNum = arr.Max();
-        var minNum = arr.Min();
-        
-        var sumOfList = 0;
-        
+        var maxNum = arr[0];
+        var minNum = arr[0];
+
         for (var i = 0; i < arr.Count; i++)
         {
-            sumOfList += arr[i];
+            if (arr[i] < minNum)
+            {
+                minNum = arr[i];
+            }
+
+            if (arr[i] > maxNum)
+            {
+                maxNum = arr[i];
+            }
+        }
+
+        var minSum = 0;
+        var maxSum = 0;
+
+        foreach (var t in arr)
+        {
+            if (maxNum != t)
+            {
+                minSum += t;
+            }
+
+            if (minNum != t)
+            {
+                maxSum += t;
+            }
         }
         
-        var minSum = sumOfList - maxNum;
-        var maxSum = sumOfList - minNum;
-        
+
         Console.WriteLine($"{minSum} {maxSum}");
     }
 }

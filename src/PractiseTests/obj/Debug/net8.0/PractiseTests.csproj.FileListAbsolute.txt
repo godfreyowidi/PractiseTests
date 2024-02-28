@@ -12,3 +12,4 @@ D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\refint\Practise
 D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\PractiseTests.pdb
 D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\PractiseTests.genruntimeconfig.cache
 D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\ref\PractiseTests.dll
+D:\Projects\DSA\PractiseTests\src\PractiseTests\obj\Debug\net8.0\PractiseTests.sourcelink.json
