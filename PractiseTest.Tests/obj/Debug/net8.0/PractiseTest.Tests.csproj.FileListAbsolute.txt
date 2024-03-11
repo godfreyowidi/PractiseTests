@@ -97,10 +97,10 @@ D:\Projects\DSA\PractiseTests\PractiseTest.Tests\obj\Debug\net8.0\PractiseTest.T
 D:\Projects\DSA\PractiseTests\PractiseTest.Tests\obj\Debug\net8.0\PractiseTest.Tests.AssemblyInfoInputs.cache
 D:\Projects\DSA\PractiseTests\PractiseTest.Tests\obj\Debug\net8.0\PractiseTest.Tests.AssemblyInfo.cs
 D:\Projects\DSA\PractiseTests\PractiseTest.Tests\obj\Debug\net8.0\PractiseTest.Tests.csproj.CoreCompileInputs.cache
-D:\Projects\DSA\PractiseTests\PractiseTest.Tests\obj\Debug\net8.0\PractiseTest.Tests.csproj.CopyComplete
 D:\Projects\DSA\PractiseTests\PractiseTest.Tests\obj\Debug\net8.0\PractiseTest.Tests.dll
 D:\Projects\DSA\PractiseTests\PractiseTest.Tests\obj\Debug\net8.0\refint\PractiseTest.Tests.dll
 D:\Projects\DSA\PractiseTests\PractiseTest.Tests\obj\Debug\net8.0\PractiseTest.Tests.pdb
 D:\Projects\DSA\PractiseTests\PractiseTest.Tests\obj\Debug\net8.0\PractiseTest.Tests.genruntimeconfig.cache
 D:\Projects\DSA\PractiseTests\PractiseTest.Tests\obj\Debug\net8.0\ref\PractiseTest.Tests.dll
 D:\Projects\DSA\PractiseTests\PractiseTest.Tests\obj\Debug\net8.0\PractiseTest.Tests.sourcelink.json
+D:\Projects\DSA\PractiseTests\PractiseTest.Tests\obj\Debug\net8.0\Practise.E3435E28.Up2Date

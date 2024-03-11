@@ -23,10 +23,11 @@ public class MiniMaxSumSolution
                 maxNum = arr[i];
             }
         }
-
+        
+        /*
         var minSum = 0;
         var maxSum = 0;
-
+        
         foreach (var t in arr)
         {
             if (maxNum != t)
@@ -39,7 +40,17 @@ public class MiniMaxSumSolution
                 maxSum += t;
             }
         }
-        
+        */
+
+        long SumOfArr = 0;
+
+        foreach (var item in arr)
+        {
+            SumOfArr += item;
+        }
+
+        long minSum = SumOfArr - maxNum;
+        long maxSum = SumOfArr - minNum;
 
         Console.WriteLine($"{minSum} {maxSum}");
     }

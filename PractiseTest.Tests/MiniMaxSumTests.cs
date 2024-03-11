@@ -9,7 +9,7 @@ public class MiniMaxSumTests
     {
         // Arrange
         var testData = new List<int> {1, 2, 5, 7, 9};
-        var expectedOutput = "16 24\n";
+        var expectedOutput = "15 23\n";
 
         using var sw = new StringWriter();
         Console.SetOut(sw);
