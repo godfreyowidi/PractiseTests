@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PractiseTest.Tests", "PractiseTest.Tests\PractiseTest.Tests.csproj", "{601DAB8F-1713-4179-BE20-92F94F4528B3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{18E493CC-44EE-4DBF-B9A1-4E128EB7EC3A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PractiseTests", "src\PractiseTests\PractiseTests.csproj", "{54DD9624-9CA4-4738-9F83-CFC36AFB452B}"
 EndProject
 Global
@@ -26,8 +24,5 @@ Global
 		{54DD9624-9CA4-4738-9F83-CFC36AFB452B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54DD9624-9CA4-4738-9F83-CFC36AFB452B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54DD9624-9CA4-4738-9F83-CFC36AFB452B}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{54DD9624-9CA4-4738-9F83-CFC36AFB452B} = {18E493CC-44EE-4DBF-B9A1-4E128EB7EC3A}
 	EndGlobalSection
 EndGlobal

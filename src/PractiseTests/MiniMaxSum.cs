@@ -8,46 +8,28 @@ public class MiniMaxSumSolution
 {
     public static void miniMaxSum(List<int> arr)
     {
-        var maxNum = arr[0];
-        var minNum = arr[0];
-
-        for (var i = 0; i < arr.Count; i++)
-        {
-            if (arr[i] < minNum)
-            {
-                minNum = arr[i];
-            }
-
-            if (arr[i] > maxNum)
-            {
-                maxNum = arr[i];
-            }
-        }
+        var firstItem = arr[0];
+        var maxNum = firstItem;
+        var minNum = firstItem;
         
-        /*
-        var minSum = 0;
-        var maxSum = 0;
+        long SumOfArr = 1;
         
-        foreach (var t in arr)
+        for (var i = 1; i < arr.Count; i++)
         {
-            if (maxNum != t)
-            {
-                minSum += t;
-            }
-
-            if (minNum != t)
-            {
-                maxSum += t;
-            }
-        }
-        */
-
-        long SumOfArr = 0;
-
-        foreach (var item in arr)
-        {
+            var item = arr[i];
             SumOfArr += item;
+            
+            if (item < minNum)
+            {
+                minNum = item;
+            }
+
+            if (item > maxNum)
+            {
+                maxNum = item;
+            }
         }
+        
 
         long minSum = SumOfArr - maxNum;
         long maxSum = SumOfArr - minNum;
