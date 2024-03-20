@@ -4,6 +4,7 @@ namespace PractiseTest.Tests;
 
 public class TimeConversionTests
 {
+    //GivenSomeScenario_WhenSomethingHappens_ThenExpectSomeResult
     [Fact]
     public void Convert_Midnight_To_24Hour_Format()
     {

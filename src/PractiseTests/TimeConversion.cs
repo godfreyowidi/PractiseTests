@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/challenges/three-month-preparation-kit-time-conversion/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-one
+
 namespace PractiseTests;
 
 public class TimeConversion
@@ -10,13 +12,7 @@ public class TimeConversion
         var mm = s.Substring(3, 2);
         var ss = s.Substring(6, 2);
 
-        switch (hourStr)
-        {
-            case "12" when ampmString == "AM":
-                return $"00:{mm}:{ss}";
-            case "12" when ampmString == "PM":
-                return $"12:{mm}:{ss}";
-        }
+        if (hourStr == "12" && ampmString == "AM") return $"00:{mm}:{ss}";
 
         if (ampmString == "PM" && hourStr != "12")
         {
